@@ -1,12 +1,17 @@
-using Zenject;
 using NUnit.Framework;
+using Zenject;
 
-[TestFixture]
-public class ExampleUnitTest : ZenjectUnitTestFixture
+namespace Tests
 {
-    [Test]
-    public void RunTest1()
+    [TestFixture]
+    public class ExampleUnitTest : ZenjectUnitTestFixture
     {
-        // TODO
+        [Test]
+        public void RunTest1()
+        {
+            
+        }
+        
+        
     }
 }

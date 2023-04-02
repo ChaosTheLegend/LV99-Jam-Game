@@ -1,7 +1,7 @@
 {
     "name": "Game.Test",
     "rootNamespace": "",
-    "references": [],
+    "references": ["GUID:a2f2239355369ba4fb6909aeaa41def5"],
     "includePlatforms": [
         "Editor"
     ],
